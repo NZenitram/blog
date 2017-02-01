@@ -1,6 +1,6 @@
 ---
 post_title: 'Test'
-layout: post_type_probably_post
+layout: post
 published: false
 ---
 Spinning up an EC2 instance on AWS appears to be a daunting task, but to set up a simple Apache HTTP web server is simply a few clicks away. In this tutorial, I will show you how to create and access your EC2 instance using the AWS console and Secure Shell (SSH) to login through your terminal. The first thing you will need to do is log in to your AWS account. After log in, if you are not redirected to the <a href="https://s3-us-west-1.amazonaws.com/nzenitramwp/Screen+Shot+2016-11-27+at+4.35.44+PM.png">AWS console</a>, click on the orange cube at the top right corner of the page to access it. When you get to the console, click on the 'EC2: Virtual Servers in the Cloud' link under the 'Compute' subsection (orange icons), on the console page.<img class="size-medium alignright" src="https://s3-us-west-1.amazonaws.com/nzenitramwp/Screen+Shot+2016-12-04+at+12.53.05+PM.png" alt="" width="50%" height="50%" />
