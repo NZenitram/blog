@@ -1,5 +1,5 @@
 ---
-post_title: 'Test'
+post_title: 'Push to GitHub'
 layout: post
 published: false
 ---
